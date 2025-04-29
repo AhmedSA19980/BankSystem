@@ -4,9 +4,9 @@ Console Application: Financial Management System
 This document describes a console-based application designed to manage clients, track financial transactions, handle user accounts, and provide currency-related utilities. It's a text-based interface, making it suitable for environments where a graphical user interface is not available or preferred. The application is structured around a main menu, providing access to various functional modules.
 
 Main Menu Options:
-##The application presents a main menu upon successful login, offering the following options:
+## The application presents a main menu upon successful login, offering the following options:
 
-###Client Management: This module allows for managing client information.
+### Client Management: This module allows for managing client information.
 
 Show Client List: Displays a list of all registered clients, typically including their name, ID, and potentially a summary of their balance.
 
@@ -16,7 +16,7 @@ Delete Client: Removes an existing client from the system based on their identif
 
 Find Client: Searches for a specific client using criteria such as name or ID and displays their details.
 
-###Transactions: This is the core financial module, handling various types of transactions for clients.
+### Transactions: This is the core financial module, handling various types of transactions for clients.
 
 Deposit: Records a deposit of funds into a client's account.
 
