@@ -15,7 +15,9 @@ Main Menu Options:
 3-Delete Client: Removes an existing client from the system based on their identifier.
 
 4-Find Client: Searches for a specific client using criteria such as name or ID and displays their details.
-
+## Login
+  username: User2
+  password:1234
 ### Transactions: This is the core financial module, handling various types of transactions for clients.
 
 1-Deposit: Records a deposit of funds into a client's account.
